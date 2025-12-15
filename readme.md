@@ -143,20 +143,6 @@ Automated FAQ resolution and case creation using multi-agent RAG architecture.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌱 What I'm Currently Up To
 
 - 🔭 Building AI-powered developer tools
@@ -169,7 +155,5 @@ Automated FAQ resolution and case creation using multi-agent RAG architecture.
 <div align="center">
 
 ### 💡 "I build systems that make developers' lives easier"
-
-![Visitors](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet&style=for-the-badge)
 
 </div>
