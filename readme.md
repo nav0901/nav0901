@@ -81,6 +81,8 @@ Built a 5-agent AI system that converts natural language → production-ready co
 - 96% reduction in development time
 - Intelligent validation-fix loop
 - 7 custom MCP tools for codebase awareness
+- Demo Link 1 - https://www.loom.com/share/e3ec81bcb3034aa9bf9d458ae8093557
+- Demo Link 2 - https://www.loom.com/share/fd36a0bbb2fb43a7854bb02740ed0195
 
 </td>
 <td width="50%">
